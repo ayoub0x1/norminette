@@ -1,4 +1,4 @@
-# norminette for 42 schools
+# Norminette for 42 schools for local machines
 
 ## Install:
 
